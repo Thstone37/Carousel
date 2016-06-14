@@ -1,2 +1,2 @@
 # Carsoul
-use javascript achieve a carsoul
+use javascript achieve a carousel
